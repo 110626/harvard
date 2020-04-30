@@ -1,0 +1,19 @@
+#top
+{
+ 
+  border:2px solid black;
+  padding:20px;
+  background:lightgrey;
+  text-align:center;
+ border-collapse: collapse;
+}
+
+#middle
+{
+  margin: height=20px;
+  border:2px solid black;
+  padding:20px;
+  background:lightyellow;
+  text-align:center;
+  
+}
